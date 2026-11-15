@@ -1,4 +1,3 @@
-📊 FMCG Enterprise Intelligence Dashboard
 ### Advanced Sales, Distribution & Commercial Analytics Platform
 
 **An end-to-end, interactive Business Intelligence portfolio project designed to transform FMCG transactional data into actionable business insights.**
